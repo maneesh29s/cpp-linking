@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: examples.sh
+  checksum: 80e25377f770ebb54697d720154b0a3cb0b89fdba0acae0920803179219a6512
+version: "1.0"

@@ -1,0 +1,6 @@
+*.o
+*.so
+nm-outputs/ 
+obj/ 
+lib/ 
+out/
